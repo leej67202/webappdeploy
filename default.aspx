@@ -114,8 +114,7 @@ https://msdn.microsoft.com/en-us/library/ms524602(v=vs.90).aspx
 
 	
 <p>
- <b>Build Version</b>
-2nd Build
+ <b>Build Version: V1.3</b>
  </p>
 
 
