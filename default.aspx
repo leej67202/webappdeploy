@@ -96,15 +96,7 @@ footer {background: #aaa;color:white;}
  </p>
  
  <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/W9wuNllpcWE" frameborder="0" allowfullscreen></iframe>
- </P>
- 
- <p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C71HgJ7B6Og" frameborder="0" allowfullscreen></iframe>
- </p>
- 
- <p>
- <iframe width="560" height="315" src="https://www.youtube.com/embed/pL9b2V7oxJs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tuudREZpEQg" frameborder="0" allowfullscreen></iframe>
  </p>
  
  <p>
