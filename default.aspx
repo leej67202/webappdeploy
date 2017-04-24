@@ -51,7 +51,6 @@ footer {background: #aaa;color:white;}
   <li><a href="https://login.microsoftonline.com">Office 365</a></li>
 </ul>
 </nav>
-
 <article class="article">
 <p>
  <b>You are browsing this site with:</b>
@@ -103,15 +102,12 @@ footer {background: #aaa;color:white;}
  <b>Reference is at: </b>
 https://msdn.microsoft.com/en-us/library/ms524602(v=vs.90).aspx
  </p>
-
 	
 <p>
  <b>Build Version: V1.3</b>
  </p>
 
-
 </article>
-
 <footer>Copyright © DC Reserved</footer>
 </div>
 
